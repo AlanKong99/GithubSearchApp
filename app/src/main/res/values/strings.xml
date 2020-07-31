@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubSearchApp</string>
+    <string name="search_repositories">Search Repositories</string>
+    <string name="search_choice">Search Choice</string>
+    <string name="searchbar_text">Search Toolbar</string>
+    <string name="language_format">language: %s</string>
+    <string name="search_button_text">Search</string>
+    <string name="search_hint">Please enter something</string>
+    <string name="retry_button">retry</string>
+    <string name="logo_of_github">Logo of Github</string>
+    <string name="title_background_image">Title background image</string>
+    <string-array name="search_choices">
+        <item>
+            repository
+        </item>
+        <item>
+            user
+        </item>
+    </string-array>
+</resources>
